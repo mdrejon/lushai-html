@@ -1,0 +1,288 @@
+
+
+
+/*=================== Basic Responsive Start ======================*/
+@media only screen and (max-width: 1024px){
+    
+
+    /*=================== mobile-menu ======================*/
+    
+    
+    }
+    
+    /*=================== Basic Responsive end ======================*/
+    
+    
+    
+    
+    /*=================== I Phone 6/7/8 Responsive start ======================*/
+    
+    @media (max-width: 414px) {
+    
+    } 
+    /*=================== I Phone 5/se Responsive End ======================*/
+    
+    @media (max-width: 400px) {
+    
+    }
+    
+    
+    /*=================== I Phone 5/se Responsive start ======================*/
+    /*=================== Wide I Phone 5/se Responsive End ======================*/
+    
+    @media (max-width: 568px) and (min-width: 320px){
+    }
+    
+    
+    /*=================== I Phone 5/se Responsive start ======================*/
+    
+    @media (max-width: 320px) {
+    
+    
+    } 
+    /*=================== I Phone 5/se Responsive End ======================*/
+    /* Lager Screen*/
+    @media (max-width: 1199px) {
+    
+    }@media (min-width: 1024px) {
+    
+    }
+    
+    
+    @media only screen and (max-width: 540px){
+    }
+    
+    
+    /*=================================Sur Start =======================*/  
+    @media (max-width: 767px) and (min-width: 540px) {
+    
+    
+    }
+    
+    /*=================================Sur Start =======================*/  
+    
+    
+    /*=================================I Pad Start =======================*/  
+    @media (max-width: 767px) and (min-width: 1024px) {
+    
+    }
+    
+    /*=================================I Pad end =======================*/  
+    /*ipad Pro*/
+    
+    
+    
+    
+    /*=================== Galaxy S5 Responsive Start ======================*/
+    
+    @media (max-width: 640px) {
+    
+    }
+    /*=================== Galaxy S5 Responsive End ======================*/
+    
+    /*=================== pixel Responsive start ======================*/
+    @media (max-width: 731px) {
+    
+    }
+    /*=================== pixel Responsive start ======================*/
+    
+    /*=================== pixel 2 Responsive start ======================*/
+    @media (max-width: 823px) {
+    
+    
+      
+    }
+    /*=================== pixel Responsive start ======================*/
+    
+    /*=================== pixel 2 Responsive start ======================*/
+    /*@media (max-width: 823px) (min-width: 1024px) {*/
+      @media (max-width: 823px) and (min-width: 411px) {
+    
+      
+    }
+    /*=================== pixel Responsive start ======================*/
+    
+    /*=================== I Pad Responsive Start ======================*/
+    @media (max-width: 767px) {
+      
+        
+        .site-logo img {
+            height: 61px;
+        }
+        .top-header {
+            text-align: center;
+            font-size: 11px;
+        }
+        .top-social.text-right {
+            text-align: center;
+            margin-top: 8px;
+        }
+        .slider-title {
+            font-size: 20px;
+        }
+        .slider-text p {
+            font-size: 14px; 
+        }
+        .about-wrap img {
+            height: 300px;
+            margin-bottom: 30px;
+        }
+        .about-content {
+            background-color: #fff !important;
+        }
+        .choose-feature {
+            left: 0;
+        }
+        .why-choose {
+            background-color: #fff !important;
+        } 
+        .why-choose:after {
+            width: 100%;
+        }
+        .slide-img {
+            width: 100%;
+        }
+        .footer-widget {
+            margin-top: 30px;
+        }
+        
+        .service-content h4 a {
+            font-size: 17px;
+        }
+        .service-content p {
+            font-size: 15px;
+        }
+        .footer-widget {
+            text-align: center;
+          }
+          
+        .mobile-menu {
+            width: 30px;
+        }
+        .mobile-menu span {
+            width: 100%;
+            display: block;
+            background-color: var(--primery_color);
+            height: 2px;
+            margin: 6px;
+        }
+        .nav-menu {
+            position: fixed;
+            left: 0;
+            width: 350px;
+            background-color: #fff;
+            text-align: left;
+            padding: 0 53px !important;
+            left: -110%;
+            visibility: hidden;
+            opacity: 0;
+            transition: 0.5s;
+            top: 0;
+            height: 100%;
+        }
+        .nav-menu li {
+            width: 100%;
+            display: inline-block !important; 
+        }
+        .mobile-menu {
+            display: block;
+            visibility: visible;
+            cursor: pointer;
+            margin-top: 29px;
+        }
+        .nav-menu.active {
+            left: 0;
+            visibility: visible;
+            opacity: 1;
+            top: 0;
+        }
+        
+    .mobile-close {
+        display: block;
+        padding-top: 30px;
+        text-align: right;
+        font-size: 35px;
+        cursor: pointer;
+        color: var(--primery_color);
+    }
+    .mobile-close {
+        display: block;
+        visibility: visible;
+    }
+    .about-content h2 {
+        font-size: 25px;
+      }
+      .about-content p {
+        font-size: 15px;
+      }
+      .about-content {
+        margin-bottom: 23px;
+      }
+    }
+    /*=================== I Pad Responsive End ======================*/
+    
+    
+    @media (max-width: 720px) and (min-width: 540px) {
+    
+    }
+    /*=================== Wide I Pad Pro Responsive Start ======================*/
+    @media (max-width: 1200px) and (min-width: 1025px) {
+     
+    }
+    /*=================== Wide I Pad Pro Responsive End ======================*/
+    
+    
+    @media (max-width: 767px) and (min-width: 701px) {
+    
+    }
+    
+    @media (max-width: 1366px) and (min-width: 1024px) {
+    
+    }
+    
+    /*=================== Wide I Pad  Responsive start ======================*/
+    @media (max-width: 1024px) and (min-width: 768px) {
+    
+    }
+    
+    /*I pad*/
+    @media (max-width: 768px) {
+    
+    }
+    /*I pad*/
+    @media (max-width: 1024px) and (min-width: 701px) {
+    
+    }
+    
+    /*=================== Wide I Pad  Responsive End ======================*/
+    @media (max-width: 1024px) {
+    
+      
+    }
+    
+    @media (max-width: 991px) {
+    
+    }
+    
+    
+    
+    
+    
+    @media (max-width: 700px) {
+    
+    
+    @media (max-width: 575px) {
+    
+    }
+    
+    @media (max-width: 359px) {
+    
+    }
+    
+    @media only screen and (min-width: 1200px){
+    
+    }
+    
+    
+    
+    
